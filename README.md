@@ -15,7 +15,7 @@ This application allows you to:
 	
 ## Technologies
 Project is created with:
-* Python 3.9
+* Python 3.6
 * Bootstrap 4 (for one element in html file)
 	
 ## Setup
